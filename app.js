@@ -4,8 +4,8 @@ const app =express()
 
 app.use(express.static("public"))
 
-app.get('/',(req,res)=>{
-    res.sendFile(__dirname+"/index.html")
+app.get('/in',(req,res)=>{
+    res.send("This is file coming soon")
 })
 
 app.listen(3000,()=>{
