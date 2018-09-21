@@ -8,6 +8,6 @@ app.get('/in',(req,res)=>{
     res.send("This is file coming soon")
 })
 
-app.listen(3000,()=>{
+app.listen(process.env.PORT,function(){
     console.log("server is listening at localhost 3000")
 })
