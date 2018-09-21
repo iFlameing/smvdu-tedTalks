@@ -1,0 +1,23 @@
+{
+  "name": "smvdu-tedtalks",
+  "version": "1.0.0",
+  "description": "\"This project for the smvdu-tedtalks\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFlameing/smvdu-tedTalks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iFlameing/smvdu-tedTalks/issues"
+  },
+  "homepage": "https://github.com/iFlameing/smvdu-tedTalks#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
