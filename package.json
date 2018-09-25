@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iFlameing/smvdu-tedTalks#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
     "nodemon": "^1.18.4"
   }
