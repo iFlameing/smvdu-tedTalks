@@ -20,6 +20,6 @@ app.get('/about',(req,res)=>{
     res.render('about.ejs')
 })
 
-app.listen(process.env.PORT,function(){
+app.listen(process.env.PORT||3000,function(){
     console.log("server is listening at localhost 3000")
 })

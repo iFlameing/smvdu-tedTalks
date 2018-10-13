@@ -70,6 +70,10 @@ html,body{
   max-width: 100%;
 }
 
+.span{
+  color: #f60000;
+}
+
 .social a {
   font-size: 4.5rem;
   padding: 3rem;
