@@ -79,6 +79,10 @@ html,body{
   padding: 3rem;
 }
 
+.cl-black{
+  background-color: #000;
+}
+
 .fa-facebook{
   color: #3b5998;
 }
@@ -160,7 +164,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('./img/14417122371.jpg');
+  background-image: url('./img/smvdu1.jpeg');
   position: fixed;
   display: block;
   top: 0;
